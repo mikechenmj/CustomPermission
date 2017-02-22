@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PremissionTarget</string>
+
+    <string name="dangerous_label">危险权限</string>
+    <string name="dangerous_description">获取危险权限测试功能</string>
+
+    <string name="normal_label">普通权限</string>
+    <string name="normal_description">获取普通权限测试功能</string>
+</resources>

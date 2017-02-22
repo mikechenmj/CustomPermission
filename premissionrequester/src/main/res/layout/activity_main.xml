@@ -1,0 +1,38 @@
+<LinearLayout
+    android:id="@+id/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_marginBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Gain normal"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/dangerous"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Gain dangerous"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/dangerous_with_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Gain dangerous with permission"
+        android:textAllCaps="false"/>
+</LinearLayout>

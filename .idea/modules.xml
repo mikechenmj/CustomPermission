@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomPermission.iml" filepath="$PROJECT_DIR$/CustomPermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/premissionrequester/premissionrequester.iml" filepath="$PROJECT_DIR$/premissionrequester/premissionrequester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/premissiontarget/premissiontarget.iml" filepath="$PROJECT_DIR$/premissiontarget/premissiontarget.iml" />
+    </modules>
+  </component>
+</project>
